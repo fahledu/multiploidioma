@@ -8,6 +8,6 @@ Identifica automaticamente o idioma do navegador, e atribuir o conteudo de acord
 
 ![Portugues](screenshot/portugues.PNG)
 ![Inglês](screenshot/ingles.PNG)
-![Espanhol](screenshot/espanhol.PNG.PNG)
-![Frances](screenshot/frances.PNG.PNG)
+![Espanhol](screenshot/espanhol.PNG)
+![Frances](screenshot/frances.PNG)
 **No exemplo Frances não é compativél e foi atribuido Inglês.
